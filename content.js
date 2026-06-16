@@ -13,7 +13,7 @@
 export const content = {
   // ── YOU ──────────────────────────────────────────────────────────────
   profile: {
-    name: "G Sai Shiva Prasad", // shown in the top-left logo and around the site
+    name: "G SAI SHIVA PRASAD", // shown in the top-left logo and around the site
     // The big hero headline. Each item is one word/line. The LAST one gets
     // the colorful gradient. Keep it short and punchy (4–7 words total).
     headline: ["Driving", "Campaigns", "That", "Deliver", "Results."],
